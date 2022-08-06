@@ -1,0 +1,22 @@
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\bin\Debug\ControlPagoEmpleados.exe.config
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\bin\Debug\ControlPagoEmpleados.exe
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\bin\Debug\ControlPagoEmpleados.pdb
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.csproj.AssemblyReference.cache
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.Form1.resources
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.Frm_Pago_Empleados.resources
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.Properties.Resources.resources
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.csproj.GenerateResource.cache
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.exe
+C:\Users\LIBRERIA ROMERITO\source\repos\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.pdb
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\bin\Debug\ControlPagoEmpleados.exe.config
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\bin\Debug\ControlPagoEmpleados.exe
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\bin\Debug\ControlPagoEmpleados.pdb
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.csproj.AssemblyReference.cache
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.csproj.SuggestedBindingRedirects.cache
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.Frm_Pago_Empleados.resources
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.Properties.Resources.resources
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.csproj.GenerateResource.cache
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.csproj.CoreCompileInputs.cache
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.exe
+D:\UPLA\programacion.net\examen\ExamenFinal\ControlPagoEmpleados\obj\Debug\ControlPagoEmpleados.pdb
